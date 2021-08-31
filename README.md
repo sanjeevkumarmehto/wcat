@@ -21,6 +21,6 @@ eg:
 
 2 xyz
 
-node index.js -sn a.txt         //to add sequence to a non empty line.
+5. node index.js -sn a.txt         //to add sequence to a non empty line.
 
-node index.js -rel a.txt        // to remove extra lines from file a.txt.
+6. node index.js -rel a.txt        // to remove extra lines from file a.txt.
